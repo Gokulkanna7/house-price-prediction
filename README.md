@@ -47,4 +47,4 @@ XGBoost outperformed the baseline by 18% in R² score.
 3. No additional setup needed — all libraries available in Colab
 
 ## Author
-Gokul Kanna S — [LinkedIn](https://linkedin.com/in/your-linkedin)
+Gokul Kanna S — [LinkedIn](https://www.linkedin.com/in/gokul-kanna-170b4a193/)
